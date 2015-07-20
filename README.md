@@ -1,6 +1,5 @@
 # struts2-jpa-hibernate
 
-=======================
 Developed by Jhonatan
 =======================
 
